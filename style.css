@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Merriweather");
+@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+
+body {
+  font-family: Merriweather, serif;
+  font-size: 2em;
+  line-height: 160%;
+  background: #EAE3CB;
+  color: #0A2933;
+}
+
+/* line 13, ../components/sass/_base.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bree Serif', serif;
+  font-weight: normal;
+  color: #475B62;
+  // text-shadow: #FCF4DC 1px 1px;
+}
